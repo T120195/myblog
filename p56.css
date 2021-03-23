@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: coral;
+}
+div{
+    margin-top: 15px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.image-section{
+    display:flex;
+    justify-content: center;
+}
+.section-style{
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: darkseagreen;
+}
